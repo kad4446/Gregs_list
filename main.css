@@ -33,3 +33,24 @@ a {
 	padding-top: 5px;
 	padding-left: 5px;
 }
+
+#searchbox {
+	position: relative;
+	top: 45px;
+	left: 100px;
+}
+
+#search {
+	height: 30px;
+	width: 450px;
+}
+
+#search-button {
+	background: url(https://tf-curricula-prod.s3.amazonaws.com/curricula/s1lUoigoX28V3JL7MWMR/FEWD-001/v5/assets2/1.5.6_challenge_design_to_code/magnifying-glass.png);
+	background-repeat: no-repeat;
+	border: 0;
+	height: 80px;
+	width: 80px;
+
+
+}
